@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> 
+	<title></title>
+</head>
+<body>
+	<div align="center">
+		<h1 style="font-size: 60px; font-family: arial black; color: #383838 ">THANK YOU!</h1>
+		<i  style="color: #31B94D; font-size: 152px;" class="fa fa-check" aria-hidden="true"></i>
+		<div>Thank you very much for filling out our form. <br> Your eBook is waiting for you in your inbox, with one secret and special bonus :)</div>
+		<br>
+		<br>
+		<br>
+		<a href="file:///C:/Users/Iqra%20Ghani/Desktop/Gbs/Registration%20Form/Registration%20form.html" style="color: #31B94D;">Get back to our homepage</a>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<div style="color: #A8A8A8	; font-size: 14px">Copyright <i class="fa fa-copyright" aria-hidden="true"></i> 2017 | All Rights Reserved</div>
+	</div>	
+</body>
+</html>
